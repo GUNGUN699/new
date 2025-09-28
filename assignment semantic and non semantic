@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-18">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>assignment 2</title>
+    </head>
+    <body>
+        <header>SEMANTIC AND NON SEMANTIC</header>
+        <nav>QUESTION 1</nav>
+        <main>
+            <article>
+                <h2>sementic tags</h2>
+                <p>they define the meaning of the content they contain</p>
+            </article>
+            <h3>they are both human and machine readable</h3>
+            <p>they help users and machines understand and context they contain</p>
+            <div id="header"><h1>non semantic tags</h1></div>
+            <div id="content">
+                <h2>they only hold content and do not indicate its role on the page.</h2>
+                <p>they are used for styling purposes or as containers for other element.</p>
+            </div>
+        </main>
+    </body>
+</html>

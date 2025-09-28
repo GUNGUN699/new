@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=0.1">
+        <title>assignment</title>
+    </head>
+    <body>
+        <img src="./gif.jpg" alt="error" height="200px" width="200px">
+        <img src="./gif.jpg" alt="error" height="200px" width="200px">
+        <img src="./gif2.jfif" alt="error" height="200px" width="200px">
+
+        <audio controls autoplay muted loop>
+            <source src="" type="audio/mp3">
+        </audio>
+
+        <video controls autoplay muted loop>
+            <source src="" type="vedio/mp4">
+        </video>
+        <iframe width="560" height="315" src=": https://www.youtube.com/watch?v=irqbmMNs2Bo&t=11798s">
+
+        </iframe>
+        <a href="http://www.google.com" target="_blank">Google</a>
+        <a href="http://wwww.google.com" target="_parent">Google</a>
+        <p></p>
+        
+    </body>
+</html>
